@@ -11,6 +11,7 @@
 - [Benjamin Dangl](https://github.com/benicamera)
 - PRANAV VYAS
 - [Raman Lamichhane](https://github.com/ramanic)
+- [Priyanca S](https://github.com/sonawalepriyanca)
 - [Ritik Dutta](https://github.com/ritikdutta)
 - [Hussain AlHilal] (https:/github.com/HMSAlHilal)
 - [Kumar Karan](https://github.com/BharatiyaKaran/)
